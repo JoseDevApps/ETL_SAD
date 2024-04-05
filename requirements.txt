@@ -1,0 +1,11 @@
+anaconda::pandas>=2.1
+anaconda::scikit-learn==1.3.0
+conda-forge::keras==3.0.5
+conda-forge::pyarrow==15.0.0
+anaconda::chardet==4.0.0
+conda-forge::black
+conda-forge::psycopg2-binary
+conda-forge::python-dotenv
+conda-forge::influxdb-client
+conda-forge::influxdb
+anaconda::sqlalchemy
